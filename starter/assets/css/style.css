@@ -55,7 +55,7 @@ nav{
 }
 
 #hero_image{
-    height: 100%;
+    height: auto;
     width: 100%;
     margin-bottom: 25px;
     
