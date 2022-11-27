@@ -1,33 +1,40 @@
+/*making changes to all of the web page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*setting the background colour of the body of the page*/
 body {
     background-color: #d9dcd6;
 }
 
+/*setting the colour, font size and display type of all h1 headers*/
 h1{
     color: #d9dcd6;
     display: inline-block;
     font-size: 48px;
 }
 
+/*setting the bottom margins and font size of all h2 headers*/
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*setting the bottom margin of h3 headers and alligning them to the centre of their container*/
 h3{
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*setting the font size of all h4 headers*/
 h4 {
     font-size: 20px;
 }
 
+/*setting the colour, display type and left margin of all links on the page*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -35,10 +42,12 @@ a {
     margin-left: 25px;
 }
 
+/*setting the font size of all text in paragraphs*/
 p {
     font-size: 16px;
 }
 
+/*setting the padding, font, background colour and text colour for the header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +55,7 @@ header {
     color: #ffffff;
 }
 
+/*setting the top padding, right margin, float position, font and font size for the website navigaton*/
 nav{
     padding-top: 15px;
     margin-right: 20px;
@@ -54,6 +64,7 @@ nav{
     font-size: 20px;
 }
 
+/*setting the height, width and bottom margin of the hero image*/
 #hero_image{
     height: auto;
     width: 100%;
@@ -61,27 +72,31 @@ nav{
     
 }
 
-
+/*setting the width, display type and left margin of the content section*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*setting the float type and right margin of the float left class*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*setting the float type and right margin of the float right class*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*setting the max image height for all content-article class images*/
 .content-articles img {
     max-height: 200px;
 }
 
+/*setting the bottom margin, pading, height, font, background colour and text colour for all content-articles class articles */
 .content-articles {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,6 +107,7 @@ nav{
     
 }
 
+/*setting the right margin, padding, float position, width, height, font and background colour of the aside bar*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -103,18 +119,20 @@ aside {
     background-color: #2589bd;
 }
 
+/*setting the bottom margin and the text colour for all benefit article class articles*/
 .benefit-article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*setting the display type, margin and max width for all benefit-arrticle class images*/
 .benefit-article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/*setting the padding, font and the allignment of the text for the footer of the page*/
 footer {
     padding: 30px;
     clear: both;
