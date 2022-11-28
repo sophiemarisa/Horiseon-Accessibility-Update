@@ -1,6 +1,9 @@
 # Horiseon-Accessibility-Update
 
-IMAGE SPACE
+![Screenshot of first half of the website](starter/assets/images/WebImage1.jpg)
+
+![Screenshot of second half of the website](starter/assets/images/WebImage2.jpg)
+
 
 ## Description 
 
