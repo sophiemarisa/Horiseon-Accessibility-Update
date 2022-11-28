@@ -1,8 +1,8 @@
 # Horiseon-Accessibility-Update
 
-![Screenshot of first half of the website](starter/assets/images/WebImage1.jpg)
+![Screenshot of first half of the website](/assets/images/WebImage1.jpg)
 
-![Screenshot of second half of the website](starter/assets/images/WebImage2.jpg)
+![Screenshot of second half of the website](/assets/images/WebImage2.jpg)
 
 
 ## Description 
